@@ -45,23 +45,24 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-![WhatsApp Image 2025-11-24 at 9 53 58 AM](https://github.com/user-attachments/assets/c9009df9-1f79-448b-b73f-0ab9233409b6)
+![WhatsApp Image 2025-11-24 at 9 53 58 AM](https://github.com/user-attachments/assets/32f019e4-0e20-488f-b3df-234261816877)
 
 
 b.  KCL:
  
-![WhatsApp Image 2025-11-24 at 9 53 47 AM](https://github.com/user-attachments/assets/04a75a21-8b17-4420-a6d3-85c7663a66a3)
+![WhatsApp Image 2025-11-24 at 9 53 56 AM](https://github.com/user-attachments/assets/5684f80b-b384-46a5-8859-cdb0dc83da7c)
+
 
 Calculation:
 
 a.   KVL:
- ![WhatsApp Image 2025-11-24 at 9 53 47 AM](https://github.com/user-attachments/assets/e0fbf568-e9a8-472c-92a8-1e5426be89a1)
-
-![WhatsApp Image 2025-10-14 at 7 15 37 AM](https://github.com/user-attachments/assets/75fcb009-3141-4b5e-8254-02bfd1b101e0)
+ 
+![WhatsApp Image 2025-11-24 at 9 53 41 AM](https://github.com/user-attachments/assets/a5ae27f1-bdfe-4c48-ae69-af3d4e5d49c0)
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-11-24 at 9 53 40 AM](https://github.com/user-attachments/assets/d2a5d153-4bbd-4336-9bb9-36ada4c73781)
 
 
 
@@ -70,9 +71,13 @@ Tabulation:
 a.   KVL:
  
 
+![WhatsApp Image 2025-11-24 at 9 53 52 AM](https://github.com/user-attachments/assets/3fd81fed-7df4-45b8-a4ad-c35725e97da1)
+
 
 b.  KCL:
 
+
+![WhatsApp Image 2025-11-24 at 9 53 47 AM](https://github.com/user-attachments/assets/899f0866-6355-46cb-b38a-11e2225df22f)
 
 
 RESULT:
